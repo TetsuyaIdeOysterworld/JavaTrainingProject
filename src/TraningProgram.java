@@ -5,8 +5,10 @@ public class TraningProgram {
 		// TODO 自動生成されたメソッド・スタブ
 
 		Question1 Q1 = new Question1();
-
+		Question2 Q2 = new Question2();
+		
 		Q1.dispGuess();
+		Q2.dispGuess();
 
 	}
 }
