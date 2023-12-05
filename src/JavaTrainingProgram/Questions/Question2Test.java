@@ -1,3 +1,5 @@
+package JavaTrainingProgram.Questions;
+
 import org.junit.Test;
 
 public class Question2Test {

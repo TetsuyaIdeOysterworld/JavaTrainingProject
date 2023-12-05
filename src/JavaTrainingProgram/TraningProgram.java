@@ -1,3 +1,6 @@
+package JavaTrainingProgram;
+
+import JavaTrainingProgram.Questions.*;
 
 public class TraningProgram {
 

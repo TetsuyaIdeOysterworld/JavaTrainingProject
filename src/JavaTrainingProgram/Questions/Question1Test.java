@@ -1,4 +1,8 @@
+package JavaTrainingProgram.Questions;
+
 import org.junit.Test;
+
+import JavaTrainingProgram.Questions.Question1;
 
 public class Question1Test {
 

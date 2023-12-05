@@ -1,6 +1,10 @@
+package JavaTrainingProgram.Questions;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
+import JavaTrainingProgram.Questions.QuestionBase;
 
 public class Question2 extends QuestionBase {
 
@@ -23,7 +27,7 @@ public class Question2 extends QuestionBase {
 		}
 	}
 
-	private void questionIn1() throws IOException{
+	void questionIn1() throws IOException{
 		// 練習問題 2 - 1
 		// String 型の変数 s に文字列を入力し、s の値を表示するプログラムを作成しなさい。
 		System.out.println("問2－1");
@@ -34,7 +38,7 @@ public class Question2 extends QuestionBase {
 		System.out.println(s);		
 	}
 	
-	private void questionIn5() throws IOException{
+	void questionIn5() throws IOException{
 		// ２つの整数値を入力し、平均値を求めるプログラムを作成しなさい。
 		// ※ 	計算は整数で行い、小数点以下は切り捨ててよい
 		System.out.println("問2－5");
