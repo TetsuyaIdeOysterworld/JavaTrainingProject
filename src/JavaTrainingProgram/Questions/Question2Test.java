@@ -6,8 +6,8 @@ public class Question2Test {
 
 	@Test
 	public void test() {
-		var Q2 = new Question2();
-		Q2.dispGuess();
+		var q2 = new Question2();
+		q2.dispGuess();
 	}
 
 }
