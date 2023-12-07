@@ -11,7 +11,7 @@ public class Question5 extends QuestionBase {
 		questionIn1();
 	}
 
-	int[] inputNumbers(int size) {
+	private int[] inputNumbers(int size) {
 		int[] numbers = new int[size];
 		for (int i = 0; i < numbers.length; i++) {
 			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
